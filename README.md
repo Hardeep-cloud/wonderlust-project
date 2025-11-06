@@ -72,7 +72,7 @@ It features **Google & GitHub OAuth login**, **real-time location mapping** with
 - **Hosting Platform:** Render  
 - **Database:** MongoDB Atlas  
 
-**🔗 Live Demo:** [WanderLust Application Link](#)  
+**🔗 Live Demo:** [WanderLust Application Link](https://wonderlust-project-ga2w.onrender.com)  
 
 ---
 
