@@ -20,7 +20,7 @@ It features **Google & GitHub OAuth login**, **real-time location mapping** with
 ### ✨ Key Features
 - 📱 **Responsive Design:** Works smoothly on all devices  
 - 🔍 **User-Friendly Interface:** Simple and intuitive navigation  
-- 🗺️ **Mapbox API Integration:** Real-time map for property locations  
+  🗺️ Leaflet.js Integration: Real-time map for property locations
 
 ---
 
